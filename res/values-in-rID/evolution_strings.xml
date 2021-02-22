@@ -16,5 +16,5 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="show_statusarea">Tampilkan area status (cuaca dll.)</string>
-    <string name="applied_changes_msg">Pengaturan jam diterapkan (mulai ulang SysUI mungkin diperlukan)</string>
+    <string name="applied_changes_msg">Pengaturan jam diterapkan (mulai ulang SistemUI mungkin diperlukan)</string>
 </resources>

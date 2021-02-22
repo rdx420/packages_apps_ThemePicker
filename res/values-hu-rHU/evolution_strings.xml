@@ -15,6 +15,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="show_statusarea">显示状态区域 (天气等)</string>
-    <string name="applied_changes_msg">已应用时钟设置 (系统界面可能需要重启)</string>
+    <string name="show_statusarea">Állapotterület megjelenítése (időjárás stb.)</string>
+    <string name="applied_changes_msg">Óra beállítások alkalmazva (szükség lehet a SysUI újraindítására)</string>
 </resources>
